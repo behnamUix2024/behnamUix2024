@@ -54,7 +54,6 @@
 ![آمار گیت‌هاب بهنام](https://github-readme-stats.vercel.app/api?username=behnamUix2024&show_icons=true&theme=radical&locale=fa&cache_seconds=86400)
 
 ![زبان‌های مورد استفاده](https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix2024&layout=compact&theme=radical&locale=fa&cache_seconds=86400)
-
 ---
 
 ## ✨ یک نکته جالب
