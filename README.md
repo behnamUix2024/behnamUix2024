@@ -50,12 +50,9 @@
 ---
 
 ## 📊 آمار گیت‌هاب
+![آمار گیت‌هاب](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=behnamUix2024&theme=github_dark)
 
-![آمار گیت‌هاب بهنام](https://github-readme-stats.vercel.app/api?username=behnamUix2024&show_icons=true&theme=radical&locale=fa)
-
-![زبان‌های مورد استفاده](https://github-readme-stats.vercel.app/api/top-langs/?username=behnamUix2024&layout=compact&theme=radical&locale=fa)
-
----
+![زبان‌ها](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=behnamUix2024&theme=github_dark)
 
 ## ✨ یک نکته جالب
 
